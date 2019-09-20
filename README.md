@@ -2,6 +2,12 @@
 Small prototyping PCBs for building operational amplifier circuits
 
 
-![Alt text](opampprotoboard/AssemblyDiagram_with silkscreenV1.PNG?raw=true "Title")
+<p align="center">
 
-![Screenshot](opampprotoboard/AssemblyDiagram_with silkscreenV1.PNG)
+  <img src="/opampprotopcb/AssemblyDiagram_with silkscreenV1.PNG" width="800" alt="accessibility text">
+  <img src="/opampprotopcb/Layout_AllLayersV1.PNG" width="800" alt="accessibility text">
+  <img src="/opampprotopcb/Schematic14092019.PNG" width="800" alt="accessibility text">
+  
+
+  
+</p>
