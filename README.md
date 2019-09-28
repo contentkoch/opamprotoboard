@@ -33,7 +33,7 @@ Off the top of my head possible circuits:
   <img src="/opampprotopcb/Layout_AllLayersV1.PNG" width="800" alt="accessibility text">
   <img src="/opampprotopcb/Schematic14092019.PNG" width="800" alt="accessibility text">
   
-  <img src="/opampprotopcb_DIL/AssemblyDiagram_with silkscreenV1.PNG" width="800" alt="accessibility text">
-  <img src="/opampprotopcb_DIL/Layout_AllLayersV1.PNG" width="800" alt="accessibility text">
+  <img src="/opampprotopcb_DIL/AssemblyDiagram_with silkscreen.PNG" width="800" alt="accessibility text">
+  <img src="/opampprotopcb_DIL/Layout_AllLayers.PNG" width="800" alt="accessibility text">
   
 </p>
