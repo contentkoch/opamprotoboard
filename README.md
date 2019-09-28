@@ -29,7 +29,7 @@ Off the top of my head possible circuits:
 12. negative resistance circuit
 <p align="center">
 
-  SMD Version
+  SMD Version (40mm x 80mm)
   
   <img src="/opampprotopcb/AssemblyDiagram_with silkscreenV1.PNG" width="800" alt="accessibility text">
   <img src="/opampprotopcb/Layout_AllLayersV1.PNG" width="800" alt="accessibility text">
@@ -37,6 +37,10 @@ Off the top of my head possible circuits:
   
   
   DIP Version with THT resistors and 5mm pitch capacitors:
+  
+  (40mm x 100mm)
+  This is autorouted (but handplaced), so it is a bit messy. Feel free to improve the design and send it back to me.
+  
   
   <img src="/opampprotopcb_DIL/AssemblyDiagram_with silkscreen.PNG" width="800" alt="accessibility text">
   <img src="/opampprotopcb_DIL/Layout_AllLayers.PNG" width="800" alt="accessibility text">
