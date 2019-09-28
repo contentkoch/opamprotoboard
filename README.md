@@ -29,9 +29,14 @@ Off the top of my head possible circuits:
 12. negative resistance circuit
 <p align="center">
 
+  SMD Version
+  
   <img src="/opampprotopcb/AssemblyDiagram_with silkscreenV1.PNG" width="800" alt="accessibility text">
   <img src="/opampprotopcb/Layout_AllLayersV1.PNG" width="800" alt="accessibility text">
   <img src="/opampprotopcb/Schematic14092019.PNG" width="800" alt="accessibility text">
+  
+  
+  DIP Version with THT resistors and 5mm pitch capacitors:
   
   <img src="/opampprotopcb_DIL/AssemblyDiagram_with silkscreen.PNG" width="800" alt="accessibility text">
   <img src="/opampprotopcb_DIL/Layout_AllLayers.PNG" width="800" alt="accessibility text">
